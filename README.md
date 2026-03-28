@@ -1,6 +1,6 @@
 ## 🧑🏽‍💻 Vitor Fazano
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor em Formação`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI Gaspar Ricardo Júnior, apaixonado por tecnologia e desenvolvimento de software. Tenho maior foco em desenvolvimento Front-End, criando projetos com HTML, CSS e JavaScript, sempre buscando interfaces modernas, organizadas e com uma boa experiência para o usuário.
 
