@@ -20,7 +20,7 @@ Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar 
 
 
 
-
+### 🤖 Linguagens e Tecnologias
 
 
 <img 
