@@ -88,6 +88,18 @@ Busco minha primeira oportunidade na área de tecnologia, onde eu possa aplicar 
 
 <br/>
 <br/>
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor back-end e participar da construção de sistemas escaláveis, eficientes e bem estruturados.
+
+---
+
+## ⚡ Em constante evolução
+
+- 📌 Estudando Java  
+- 📌 Docker e ambientes conteinerizados  
+- 📌 PostgreSQL  
+- 📌 Boas práticas e arquitetura de software 
 
 
 
