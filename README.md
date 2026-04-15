@@ -98,6 +98,7 @@ Evoluir como desenvolvedor back-end e participar da construção de sistemas esc
 
 ### ⚡ Em constante evolução
 
+- 📌 Estudando Python  
 - 📌 Estudando Java  
 - 📌 Docker e ambientes conteinerizados  
 - 📌 PostgreSQL  
