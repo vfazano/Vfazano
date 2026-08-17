@@ -20,7 +20,7 @@
 
 ---
 
-# 💫 Sobre mim
+#  Sobre mim
 
 ```java
 public class VitorFazano {
@@ -45,7 +45,7 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 
 ---
 
-# 🌱 Atualmente estudando
+#  Atualmente estudando
 
 <div align="center">
 
@@ -99,11 +99,11 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 
 ---
 
-# 🏆 Projeto em destaque
+# Projeto em destaque
 
 <div align="center">
 
-### 🌐 Portfólio Web
+###  Portfólio Web
 <div align="center">
 
 <a href="https://github.com/vfazano/Portifolio-Fazano" target="_blank">
@@ -119,11 +119,10 @@ Design moderno • Responsivo • Animações suaves • Código limpo
 
 </div>
 
-# 🐍 Snake Contributions
+#  Snake Contributions
 
 <div align="center">
 
-<h3>💻 Minhas contribuições</h3>
 
 <p>
   <img
