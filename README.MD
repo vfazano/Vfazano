@@ -104,6 +104,10 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 <div align="center">
 
 ### 🌐 Portfólio Web
+## 📷 Preview do Projeto
+
+![Preview do Projeto](./preview0.png)
+
 
 Design moderno • Responsivo • Animações suaves • Código limpo
 
