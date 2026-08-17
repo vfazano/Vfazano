@@ -119,17 +119,24 @@ Design moderno • Responsivo • Animações suaves • Código limpo
 
 </div>
 
----
-
 # 🐍 Snake Contributions
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/vfazano/vfazano/output/github-contribution-grid-snake.svg)
+<h3>💻 Minhas contribuições</h3>
+
+<p>
+  <img
+    src="https://raw.githubusercontent.com/vfazano/vfazano/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Snake"
+    width="100%"
+  />
+</p>
 
 </div>
 
 ---
+
 
 <div align="center">
 
