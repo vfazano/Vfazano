@@ -104,9 +104,15 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 <div align="center">
 
 ### 🌐 Portfólio Web
-## 📷 Preview do Projeto
+<div align="center">
 
-![Preview do Projeto](./preview0.png)
+<a href="https://vfazano.github.io/PortifolioFazano/" target="_blank">
+  <img src="./assets/image.png" alt="Portfolio V2" width="100%"/>
+</a>
+
+**👆 Clique na imagem para abrir o portfólio**
+
+</div>
 
 
 Design moderno • Responsivo • Animações suaves • Código limpo
